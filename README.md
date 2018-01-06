@@ -65,6 +65,10 @@ These answers form documentation defining and justifing each Primitive Conceptua
 
 - Is it a primary/atomic concept? Is it tangled with some concept that should be orthogonal? Can you think of an example where the concept is orthogonal?
 
+- Consider if key words in the definition were replaced with (near) synonyms, would it introduce some orthogonal meaning?
+
+> e.g. Lojban `citka`: Defined as `eat` vs `consume` vs `ingest`. Is it about bringing food into digestive system? Or about absorbing nutrition from it?
+
 - Is it the opposite/negation or variation of intensity/strength of another Primitive Conceptual Predicate?
 
 - What are the best attempts to construct this Conceptual Predicate with other Primitive Conceptual Predicates?
