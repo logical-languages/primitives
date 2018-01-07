@@ -138,4 +138,9 @@ Yes. One could say "this concept is not atomic, it is composed of these other tw
 
 Can we say "lets have this word because it would be super convenient, despite it not being primitive".
 
+## Is the choice of Primitives subjective?
+
+Probably.
+
+These choices should be resolved by consistently following some rules. It is unclear what rules are needed at this point.
 
