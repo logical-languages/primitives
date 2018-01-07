@@ -91,10 +91,14 @@ These answers form documentation defining and justifing each Primitive Conceptua
 - Can you think of examples of two destinct aspects of the concept that both best fit in the same role? In other words, is any role overloaded?
 
 
-### What distinguishes this Primitive Conceptual Predicate from similar/related Primitive Conceptual Predicates?
+### Define the Primitive Conceptual Predicate in detail
 
 After justifying this word should exist, rather than the alternatives.
 Now we need to explicitly explain how it differs from each alternative or similar word.
+
+- What are examples of when this Predicate does or does not apply?
+
+- What distinguishes this Primitive Conceptual Predicate from similar/related Primitive Conceptual Predicates?
 
 - Are there any Primitive Conceptual Predicate that have potentially similar places? How do they differ?
 
@@ -109,7 +113,7 @@ The definitions of these Conceptual Predicate should explain how these differ fr
 
 - Can you think of an example where swapping this Conceptual Predicate for the potentially similar Conceptual Predicate would cause the bridi to change from true to false.
 
-### Is the definition culture neutral?
+### Check the definition is culturally neutral
 
 - Does it refer to any culture specific icons or customs?
 - How does the definition tie to current technology, which may change in the future? Is a flying car still a \jbo{karce}?
