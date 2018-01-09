@@ -1,3 +1,12 @@
+# Analysis Questions
+
+This file should be made parsable.
+
+- Word:
+
+- Language:
+
+- Dictionary definition:
 
 ### Justify this is Primitive
 
