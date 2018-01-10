@@ -1,0 +1,6 @@
+[Basic]
+word = "citka"
+language = "lojban"
+dictionarydef = "x1 eats/ingests/consumes (transitive verb) x2"
+
+[JustifyPrimitive]
