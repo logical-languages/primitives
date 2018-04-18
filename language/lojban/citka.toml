@@ -4,3 +4,16 @@ language = "lojban"
 dictionarydef = "x1 eats/ingests/consumes (transitive verb) x2"
 
 [JustifyPrimitive]
+
+[JustifyPrimitive.destinctConcept]
+description = "ingest, take something inside body"
+
+[JustifyPrimitive.destinctConcept]
+description "consume, destroy to consume resources"
+
+[JustifyPrimitive.scalarVariation]
+None
+
+[JustifyPrimitive.bestConstruction]
+None
+
