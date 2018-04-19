@@ -5,25 +5,24 @@ dictionarydef = "x1 eats/ingests/consumes (transitive verb) x2"
 
 [Basic.role]
 position = 1
-description = "consumer"
+description = "consumer, resource consuming process"
 
 [Basic.role]
 position = 2
-description = "food"
+description = "food, fuel, resources"
 
 [JustifyPrimitive]
 
 [JustifyPrimitive.destinctConcept]
 description = "ingest, take something inside body"
+bestConstruct = ""
 
 [JustifyPrimitive.destinctConcept]
-description = "consume, destroy to consume resources"
+description = "consume, destroy to absorb resources"
+bestConstruct = ""
 
 [JustifyPrimitive.scalarVariation]
-None
-
-[JustifyPrimitive.bestConstruction]
-None
+assessment = false # not a scalar variation
 
 [JustifyRoles]
 
@@ -35,4 +34,5 @@ description = "need something to be consuming for eating to occur"
 position = 2
 description = "need some food to eat. Eating nothing is not eating"
 
-
+[JustifyRoles.roleExcluded]
+description = "orifice, mouth, intake. A physical part of consumer."
