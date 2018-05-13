@@ -12,27 +12,25 @@ position = 2
 description = "food, fuel, resources"
 
 [JustifyPrimitive]
+scalar = false # not a scalar
 
-[JustifyPrimitive.destinctConcept]
+[[JustifyPrimitive.destinctConcept]]
 description = "ingest, take something inside body"
 bestConstruct = ""
 
-[JustifyPrimitive.destinctConcept]
+[[JustifyPrimitive.destinctConcept]]
 description = "consume, destroy to absorb resources"
 bestConstruct = ""
 
-[JustifyPrimitive.scalarVariation]
-assessment = false # not a scalar variation
-
 [JustifyRoles]
 
-[JustifyRoles.roleEssential]
+[[JustifyRoles.roleEssential]]
 position = 1
 description = "need something to be consuming for eating to occur"
 
-[JustifyRoles.roleEssental]
+[[JustifyRoles.roleEssental]]
 position = 2
 description = "need some food to eat. Eating nothing is not eating"
 
-[JustifyRoles.roleExcluded]
+[[JustifyRoles.roleExcluded]]
 description = "orifice, mouth, intake. A physical part of consumer."
