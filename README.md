@@ -14,9 +14,11 @@ Each entity has a different role in the concept. If we swap their roles, the mea
 - Sam is taller than John.
 - Sam likes John.
 
-> e.g. Lojban; in Lojban a Conceptual Predicate is a tanru or a gismu or a lujvo. Roles are places in Lojban gismu (but roles aren't necessarily assigned positionally).
+> e.g. Lojban; in Lojban a Conceptual Predicate is a tanru or a gismu or a lujvo.
+> Roles are places in Lojban gismu (but roles aren't necessarily assigned positionally).
 
-Languages associate a Conceptual Predicate to a particular morphological word form (the letters/sound/symbol for the word, separate to any meaning) to provide vocabulary. Conceptual Predicates are not specific to any language, so they do not include a morphological word form (although they may be given as examples or used to help communicate the concept).
+Languages associate a Conceptual Predicate to a particular morphological word form (the letters/sound/symbol for the word, separate to any meaning) to provide vocabulary.
+Conceptual Predicates are not specific to any language, so they do not include a morphological word form (although they may be given as examples or used to help communicate the concept).
 
 
 ## What are Primitive Conceptual Predicates?
@@ -28,9 +30,14 @@ A Conceptual Predicate is primitive if:
 
 > e.g. Lojban; in Lojban a Primitive Conceptual Predicate is a gismu.
 
-For example, the concept "to give" involves a giver, a gift and a recipient. None of these elements of the "to give" relationship can be removed without it loosing its meaning. The reason for giving the gift (christmas, birthday, charity, etc.) does not need to be conflated with the "to give" relationship.
+For example, the concept "to give" involves a giver, a gift and a recipient.
+None of these elements of the "to give" relationship can be removed without it loosing its meaning.
+The reason for giving the gift (christmas, birthday, charity, etc.) does not need to be conflated with the "to give" relationship.
 
-For example, the concept of "eat" or "ingest" or "consume" involves an eater, and food. Saying something "is food" does not remove the role of the eater from the relationship (otherwise it isn't food anymore), it just leaves it unspecified. It doesn't make sense to break down this relationship more. Also, this relationship does not need more concepts conflated with it (e.g. conflate time into the word like "eating" vs "ate").
+For example, the concept of "eat" or "ingest" or "consume" involves an eater, and food.
+Saying something "is food" does not remove the role of the eater from the relationship (otherwise it isn't food anymore), it just leaves it unspecified.
+It doesn't make sense to break down this relationship more.
+Also, this relationship does not need more concepts conflated with it (e.g. conflate time into the word like "eating" vs "ate").
 
 If a Conceptual Predicates conflates some orthogonal concepts, then it is difficult to communicate the individual concepts conflated together.
 
@@ -48,10 +55,12 @@ Lots of concepts can be explained with many words.
 
 ## Why do this?
 
-Building an intended Conceptual Predicate to communicate some particular meaning is difficult if concepts are not separated atomically. When orthogonal concepts are separate, they can each be added as appropriate.
+Building an intended Conceptual Predicate to communicate some particular meaning is difficult if concepts are not separated atomically.
+When orthogonal concepts are separate, they can each be added as appropriate.
 
 Additionally, it would be inefficient to have a word for every combination of concepts.
-If you have 5 atomic concepts, needing only 5 words. If you wanted to assign words for each pair of concepts, there are 10 different pairs needing 10 words.
+If you have 5 atomic concepts, needing only 5 words.
+If you wanted to assign words for each pair of concepts, there are 10 different pairs needing 10 words.
 This grows exponentially. If you have 10 concepts, you have 45 pairs.
 
 When complete, this set of Primitive Conceptual Predicates can provide a well documented vocabulary of concepts, ready to be mapped to morphological word forms.
@@ -81,5 +90,6 @@ Can we say "lets have this word because it would be super convenient, despite it
 
 Probably.
 
-These choices should be resolved by consistently following some rules. It is unclear what rules are needed at this point.
+These choices should be resolved by consistently following some rules.
+It is unclear what rules are needed at this point.
 
